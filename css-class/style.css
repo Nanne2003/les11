@@ -1,0 +1,27 @@
+body {
+    background-color: snow;
+    color: black    ;
+}
+h1 {
+    color: black;
+}
+
+p {
+    color: white;
+}
+
+.cheat {
+    background-color: navy;
+    color: white;
+    border: 5px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.cheat-head {
+    background-color:red;
+    color:white;
+    border: 10px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
